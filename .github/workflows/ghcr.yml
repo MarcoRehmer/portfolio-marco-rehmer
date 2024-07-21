@@ -29,4 +29,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/${{ github.repository_owner }}/portfolio-marco-rehmer:latest
+        tags: ghcr.io/marcorehmer/portfolio-marco-rehmer:latest
